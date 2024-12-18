@@ -76,7 +76,7 @@ app.listen(2000)
     Criar API de usuários
 
     - Criar um usuário
-    - Lista um usuário
+    - Listar um usuário
     - Editar um usuário
     - Deletar um usuário
 */
