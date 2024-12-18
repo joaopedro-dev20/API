@@ -85,6 +85,5 @@ app.listen(2000)
     1 - tipo de rota / método http
     2 - endreço
 
-    usuário: joaocamposborges
-    senha: Pedro_020
+    
 */
